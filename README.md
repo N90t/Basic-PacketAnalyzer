@@ -1,6 +1,6 @@
 # Basic-PacketAnalyzer
 
-Once after packet capturing, viewving in graph format, the number of times each source IP is seen in the packet is feasible and helpful for NOC team.
+Once after packet capturing, viewing in graph format, the number of times each source IP is seen in the packet is feasible and helpful for NOC team.
 
 This python code will be helpful in extracting source & destination ipaddresses count from the network traffic.
 

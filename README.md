@@ -12,6 +12,8 @@ pip3 install scapy-python3
 
 pip3 install collections
 
+The output after execution will be like below
+
 ![ip's count](https://user-images.githubusercontent.com/74539498/99469729-60f66f00-2969-11eb-9541-483fe0360d79.png)
 
 
